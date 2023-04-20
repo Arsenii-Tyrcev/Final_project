@@ -1,0 +1,117 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    text-decoration: none;
+    font-size: 30px;
+    color: orangered;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.link-nav{
+    font-size: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+h2{
+    color: cyan;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.my_name{
+    text-align: center;
+    color: blue;
+}
+
+.hard_skils{
+    color: orangered;
+}
+
+.soft_skils{
+    color: orangered;
+}
+
+.link-header{
+    color: chartreuse;
+    text-decoration: none;
+}
+
+.list_img{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.skate{
+    padding: 50px;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: orangered;
+}
+
+.text-big{
+    color: blue;
+    text-align: center;
+}
+
+.link-header{
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.link-text{
+    text-decoration: none;
+    color: rgb(0, 255, 221);
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.link-header{
+    text-decoration: none;
+    color: chartreuse;
+}
+
+.information{
+    text-align: center;
+    color: orangered;
+}
+
+.sovet{
+    color: blue;
+}
+
+.instrument{
+    color: blue;
+}
+
+.link-text{
+    color: rgb(0, 255, 221);
+    text-decoration: none;
+}
